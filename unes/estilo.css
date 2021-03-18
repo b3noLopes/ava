@@ -1,0 +1,46 @@
+#fundo1 {
+  background: #fff url("imagens/fundo.png");
+  font: 16px Arial, Helvetica, sans-serif;
+}
+
+#fundo2 {
+  background: #fff url("imagens/fundo2.png");
+  font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+  width: 900px;
+  margin: 0 auto;
+}
+
+#logo {
+  float: left;
+  height: 79px;
+  padding: 8px;
+}
+
+#menu {
+  float: right;
+  padding: 8px;
+}
+
+#conteudo {
+  clear: both;
+  text-align: justify;
+  padding: 10px;
+}
+
+#rodape {
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #0b0b3b;
+}
+
+a {
+  text-decoration: none;
+  color: #0b0b3b;
+}
